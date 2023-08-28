@@ -1,2 +1,3 @@
 # Brand Assets
-Brand assets related to Archisinal identity
+
+Brand assets related to Archisinal identity.
